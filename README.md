@@ -71,7 +71,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 | Equivalence | Name |
 | :---------: | :--: |
-| p ∧ <b>T</b> ≡ p <p>p ∨ <b>F</b> ≡ p</p> | Identity Laws |
+| p ∧ <b>T</b> ≡ p <br>p ∨ <b>F</b> ≡ p | Identity Laws |
 | p ∨ <b>T</b> ≡ <b>T</b> <p>p ∧ <b>F</b> ≡ <b>F</b> | Domination Laws |
 | p ∨ p ≡ p <p>p ∧ p ≡ p</p> | Idempotent Laws |
 | ¬(¬p) ≡ p | Double Negation Law |
