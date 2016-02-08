@@ -15,8 +15,8 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 ✓ **Logical Operations**
 
 | Logical Symbol  |  Logical Operator | Shorthand | Logical Expression |
-| :-----: |:-------:| :-----: | :-------: |
-| ¬ |Negation | not | ¬p |
+| :-----: | :-------: | :-----: | :-------: |
+| ¬ | Negation | not | ¬p |
 | ∧ | Conjunction | and | p ∧ q |
 | v | Disjunction | or | p v q |
 | ⊕ | Exclusive Disjunction | xor |  p ⊕ q |
@@ -27,7 +27,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 ✓ Truth table for **Conjunction**, **Disjunction**, **Exclusive Disjunction**, **Conditional**, and **Biconditional**
   
 | p | q | p ∧ q | p v q | p ⊕ q | p → q | p ↔ q |
-| :-----: | :-----: | :-----: |:-------:| :-----: | :-------: | :-------:|
+| :-----: | :-----: | :-----: | :-------: | :-----: | :-------: | :-------:|
 | F | F | F | F | F | T | T |
 | F | T | F | T | T | T | F |
 | T | F | F | T | T | F | F |
@@ -88,16 +88,16 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
         - used to test the validity of arguments
 
 
-|          Name              |            Equivalent          | Tautology |
-|:--------------------------:|:------------------------------:|:------------------------------:|
-|       Modus ponens         |            p, p→q ∴ q          | (p ∧ (p → q)) → q |
-|     Modus tollens          |           ¬q, p→q ∴ ¬p         | (¬q ∧ (p → q)) → ¬p |
-|     Hypothetical syllogism |       p → q, q → r ∴ p → r     | ((p → q) ∧ (q → r)) → (p → r) |
-|      Disjunctive syllogism |           p ∨ q, ¬p ∴ q        | ((p ∨ q) ∧ ¬p) → q |
-|       Addition             |            p ∴ p ∨ q           | p → (p ∨ q) |
-|      Simplication          |            p ∧ q ∴ p           | (p ∨ q) → p |
-|      Conjunction           |          p, q ∴ p ∧ q          | ((p) ∨ (q)) → (p ∨ q) |
-|        Resolution          |       p ∨ q, ¬p ∨ r ∴ q ∨ r    | ((p ∨ q) ∧ (¬p ∨ r)) → (q ∨ r) |
+| Name | Equivalent | Tautology |
+|:-----------:|:-------------:|:-----------:|
+| Modus ponens | p, p→q ∴ q | (p ∧ (p → q)) → q |
+| Modus tollens | ¬q, p→q ∴ ¬p | (¬q ∧ (p → q)) → ¬p |
+| Hypothetical syllogism | p → q, q → r ∴ p → r | ((p → q) ∧ (q → r)) → (p → r) |
+| Disjunctive syllogism | p ∨ q, ¬p ∴ q | ((p ∨ q) ∧ ¬p) → q |
+| Addition | p ∴ p ∨ q | p → (p ∨ q) |
+| Simplication | p ∧ q ∴ p | (p ∨ q) → p |
+| Conjunction | p, q ∴ p ∧ q | ((p) ∨ (q)) → (p ∨ q) |
+| Resolution | p ∨ q, ¬p ∨ r ∴ q ∨ r | ((p ∨ q) ∧ (¬p ∨ r)) → (q ∨ r) |
 
 
 **Argument**
