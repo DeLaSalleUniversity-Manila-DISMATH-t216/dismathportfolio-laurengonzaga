@@ -7,11 +7,24 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
         - Proofs and Logical Analysis
           e.g. Knights and Knaves
  
+✓ **Mathematical Proof**
+
+        - a chain of logical deductions leading to the proposition from a base set of axioms
+
 ✓ **Proposition**
 
         - a statement that is either true or false
           e.g. "Today is Tuesday."
- 
+
+✓ **Logical Deduction**
+
+        - a process of reasoning from one or more statements (premises)
+          to reach a logically certain conclusion
+
+✓ **Axiom**
+
+        - a statement or proposition that is regarded as being established, accepted, or self-evidently true
+
 ✓ **Logical Operations**
 
 | Logical Symbol  |  Logical Operator | Shorthand | Logical Expression |
