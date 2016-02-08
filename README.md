@@ -131,9 +131,11 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 #Week 4
 
+✓ **Mathematical Proofs**
+
 | Method of Proof | | Steps |
 |:-----: | :-------: | :-------: | 
 | Proof by Equivalence | (p ↔ q) | Show that (p → q) and (q → p) are both true. |
-| Mathematical Induction | | 1. Basis Step <p>2. Inductive Step</p> |
+| Mathematical Induction | | 1. Basis Step (Substitution) <p>2. Inductive Step </p> |
 
 
