@@ -139,7 +139,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 |:-----: | :-------: | :-------: | 
 | Direct Proof | (p → q) | 1. Assume p is true <br>2. Show that q is also true (based on 1) |
 | Proof by Contraposition | (¬q → ¬p) | 1. Assume ¬q is true <br>2. Show that ¬p is also true (based on 1) |
-| Vacuous Proof | (¬p → (p → q)) | Show that p is false, <p>because (p → q) must be true when p is false |
+| Vacuous Proof | (¬p → (p → q)) | Show that p is false, <br>because (p → q) must be true when p is false |
 | Trivial Proof | (q → (p → q)) | Show that q is true, <br>it follows that (p → q) must also be true |
 | Proof by Contradiction | | 1. Assume ¬P is true <br>2. Show that 1. ends up in a contradiction |
 
