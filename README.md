@@ -83,7 +83,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 #Week 3
 
-✓ **Rules of Interference**
+✓ **Rules of Inference**
 
         - used to test the validity of arguments
 
