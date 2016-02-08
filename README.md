@@ -3,12 +3,10 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 #Week 1
 ✓ Introduction to **DISMATH** and some of its applications
-
         - Proofs and Logical Analysis
           e.g. Knights and Knaves
  
 ✓ **Proposition**
-
         - a statement that is either true or false
           e.g. "Today is Tuesday."
  
