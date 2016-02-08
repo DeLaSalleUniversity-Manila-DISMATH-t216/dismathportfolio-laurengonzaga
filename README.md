@@ -122,11 +122,11 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 | Method of Proof | | Steps |
 |:-----: | :-------: | :-------: | 
-| Direct Proof | (p → q) | 1. Assume p is true. <p>2. Show that q is also true (based on 1).</p> |
-| Proof by Contraposition | (¬q → ¬p) | 1. Assume ¬q is true. <p>2. Show that ¬p is also true (based on 1).</p> |
-| Vacuous Proof | (¬p → (p → q)) | Show that p is false, <p>because (p → q) must be true when p is false.</p> |
-| Trivial Proof | (q → (p → q)) | Show that q is true, <p>it follows that (p → q) must also be true.</p> |
-| Proof by Contradiction | | 1. Assume ¬P is true. <p>2. Show that 1. ends up in a contradiction.</p> |
+| Direct Proof | (p → q) | 1. Assume p is true <p>2. Show that q is also true (based on 1)</p> |
+| Proof by Contraposition | (¬q → ¬p) | 1. Assume ¬q is true <p>2. Show that ¬p is also true (based on 1)</p> |
+| Vacuous Proof | (¬p → (p → q)) | Show that p is false, <p>because (p → q) must be true when p is false</p> |
+| Trivial Proof | (q → (p → q)) | Show that q is true, <p>it follows that (p → q) must also be true</p> |
+| Proof by Contradiction | | 1. Assume ¬P is true <p>2. Show that 1. ends up in a contradiction</p> |
 
 
 #Week 4
@@ -135,7 +135,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 | Method of Proof | | Steps |
 |:-----: | :-------: | :-------: | 
-| Proof by Equivalence | (p ↔ q) | Show that (p → q) and (q → p) are both true. |
+| Proof by Equivalence | (p ↔ q) | Show that (p → q) and (q → p) are both true |
 | Mathematical Induction | | 1. Basis Step (Substitution) <p>2. Inductive Step </p> |
 
 
