@@ -131,6 +131,8 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
         - a statement that is always true
 
 
+#Week 4
+
 ✓ **Mathematical Proofs**
 
 | Method of Proof | | Steps |
@@ -142,7 +144,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 | Proof by Contradiction | | 1. Assume ¬P is true <p>2. Show that 1. ends up in a contradiction</p> |
 
 
-#Week 4
+#Week 5
 
 ✓ **Mathematical Proofs**
 
