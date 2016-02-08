@@ -81,6 +81,8 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 | "for all" | ∀(x) |
 
 
+#Week 3
+
 ✓ **Rules of Interference**
 
         - used to test the validity of arguments
@@ -110,3 +112,20 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 **Fallacy**
 
         - common form of incorrect reasoning which lead to invalid arguments
+        
+**Tautology**
+
+        - a statement that is always true
+
+
+✓ **Methods of Proof**
+
+| Method of Proof | Steps |
+|:-----: | :-------: |
+| Vacuous Proof (¬p → (p → q)) | Show that p is false, because (p → q) must be true when p is false. |
+| Trivial Proof (q → (p → q)) |	Show that q is true, it follows that (p → q) must also be true. |
+| Direct Proof (p → q) | <ol type="1"><li>Assume p is true.<li> Show that q is true (based on 1).</ol> |
+| Proof by Contraposition (¬q → ¬p) | <ol type="1"><li>Assume ¬q is true.<li> Show that ¬p is true(based on 1).</ol> |		
+| Proof by Contradiction | <ol type="1"><li>Assume ¬p is true. <li> Show that 1. ends up in a contradiction.</ol> |
+
+
