@@ -72,15 +72,15 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 | Equivalence | Name |
 | :---------: | :--: |
 | p ∧ <b>T</b> ≡ p <br>p ∨ <b>F</b> ≡ p | Identity Laws |
-| p ∨ <b>T</b> ≡ <b>T</b> <p>p ∧ <b>F</b> ≡ <b>F</b> | Domination Laws |
-| p ∨ p ≡ p <p>p ∧ p ≡ p</p> | Idempotent Laws |
+| p ∨ <b>T</b> ≡ <b>T</b> <br>p ∧ <b>F</b> ≡ <b>F</b> | Domination Laws |
+| p ∨ p ≡ p <br>p ∧ p ≡ p | Idempotent Laws |
 | ¬(¬p) ≡ p | Double Negation Law |
-| p ∨ q ≡ q ∨ p <p>p ∧ q ≡ q ∧ p</p> | Commutative Laws |
-| (p ∨ q) ∨ r ≡ q ∨ (p ∨ r) <p>(p ∧ q) ∧ r ≡ q ∧ (p ∧ r)</p> | Associative Laws |
-| p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (q ∨ r) <p> p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (q ∧ r)</p> | Distributive Laws |
-| ¬(p ∧ q) ≡ ¬p ∨ ¬q <p>¬(p ∨ q) ≡ ¬p ∧ ¬q</p> | De Morgan's Law |
-| p ∨ (p ∧ q) ≡ p <p>p ∧ (p ∨ q) ≡ p</p> | Absorption Laws |
-| p ∨ ¬p ≡ <b>T</b> <p>p ∧ ¬p ≡ <b>F</b> | Negation Laws |
+| p ∨ q ≡ q ∨ p <br>p ∧ q ≡ q ∧ p | Commutative Laws |
+| (p ∨ q) ∨ r ≡ q ∨ (p ∨ r) <br>(p ∧ q) ∧ r ≡ q ∧ (p ∧ r) | Associative Laws |
+| p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (q ∨ r) <br>p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (q ∧ r) | Distributive Laws |
+| ¬(p ∧ q) ≡ ¬p ∨ ¬q <br>¬(p ∨ q) ≡ ¬p ∧ ¬q | De Morgan's Law |
+| p ∨ (p ∧ q) ≡ p <br>p ∧ (p ∨ q) ≡ p | Absorption Laws |
+| p ∨ ¬p ≡ <b>T</b> <br>p ∧ ¬p ≡ <b>F</b> | Negation Laws |
 
 
 ✓ **Quantifiers**
@@ -137,11 +137,11 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 | Method of Proof | | Steps |
 |:-----: | :-------: | :-------: | 
-| Direct Proof | (p → q) | 1. Assume p is true <p>2. Show that q is also true (based on 1)</p> |
-| Proof by Contraposition | (¬q → ¬p) | 1. Assume ¬q is true <p>2. Show that ¬p is also true (based on 1)</p> |
-| Vacuous Proof | (¬p → (p → q)) | Show that p is false, <p>because (p → q) must be true when p is false</p> |
-| Trivial Proof | (q → (p → q)) | Show that q is true, <p>it follows that (p → q) must also be true</p> |
-| Proof by Contradiction | | 1. Assume ¬P is true <p>2. Show that 1. ends up in a contradiction</p> |
+| Direct Proof | (p → q) | 1. Assume p is true <br>2. Show that q is also true (based on 1) |
+| Proof by Contraposition | (¬q → ¬p) | 1. Assume ¬q is true <br>2. Show that ¬p is also true (based on 1) |
+| Vacuous Proof | (¬p → (p → q)) | Show that p is false, <p>because (p → q) must be true when p is false |
+| Trivial Proof | (q → (p → q)) | Show that q is true, <br>it follows that (p → q) must also be true |
+| Proof by Contradiction | | 1. Assume ¬P is true <br>2. Show that 1. ends up in a contradiction |
 
 
 #Week 5
@@ -151,6 +151,6 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 | Method of Proof | | Steps |
 |:-----: | :-------: | :-------: | 
 | Proof by Equivalence | (p ↔ q) | Show that (p → q) and (q → p) are both true |
-| Mathematical Induction | | 1. Basis Step (Substitution) <p>2. Inductive Step</p> |
+| Mathematical Induction | | 1. Basis Step (Substitution) <br>2. Inductive Step |
 
 
