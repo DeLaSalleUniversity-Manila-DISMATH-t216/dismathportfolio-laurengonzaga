@@ -120,12 +120,12 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 ✓ **Methods of Proof**
 
-| Method of Proof | Steps |
-|:-----: | :-------: |
-| Vacuous Proof (¬p → (p → q)) | Show that p is false, because (p → q) must be true when p is false. |
-| Trivial Proof (q → (p → q)) |	Show that q is true, it follows that (p → q) must also be true. |
-| Direct Proof (p → q) | <ol type="1"><li>Assume p is true.<li> Show that q is true (based on 1).</ol> |
-| Proof by Contraposition (¬q → ¬p) | <ol type="1"><li>Assume ¬q is true.<li> Show that ¬p is true(based on 1).</ol> |		
-| Proof by Contradiction | <ol type="1"><li>Assume ¬p is true. <li> Show that 1. ends up in a contradiction.</ol> |
+| Method of Proof | | Steps |
+|:-----: | :-------: | :-------: | 
+| Vacuous Proof | (¬p → (p → q)) | Show that p is false, <p>because (p → q) must be true when p is false.</p> |
+| Trivial Proof | (q → (p → q)) | Show that q is true, <p>it follows that (p → q) must also be true.</p> |
+| Direct Proof | (p → q) | 1. Assume p is true. <p>2. Show that q is true (based on 1).</p> |
+| Proof by Contraposition | (¬q → ¬p) | 1. Assume ¬q is true. <p>2. Show that ¬p is true (based on 1).</p> |		
+| Proof by Contradiction | | 1. Assume ¬P is true. <p>2. Show that 1. ends up in a contradiction.</p> |
 
 
