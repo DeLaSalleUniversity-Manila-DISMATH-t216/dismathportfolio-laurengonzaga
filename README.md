@@ -133,6 +133,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 | Method of Proof | | Steps |
 |:-----: | :-------: | :-------: | 
-| Proof by Equivalence | (p ↔ q) | Show that (p → q) and (q → p) are both true. || Proof by Equivalence | (p ↔ q) | Show that (p → q) and (q → p) are both true. |
+| Proof by Equivalence | (p ↔ q) | Show that (p → q) and (q → p) are both true. |
+| Mathematical Induction | | 1. Basis Step <p>2. Inductive Step</p> |
 
 
