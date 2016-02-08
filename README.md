@@ -73,7 +73,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 | :---------: | :--: |
 | p ∧ <b>T</b> ≡ p <p>p ∨ <b>F</b> ≡ p</p> | Identity Laws |
 | p ∨ <b>T</b> ≡ <b>T</b> <p>p ∧ <b>F</b> ≡ <b>F</b> | Domination Laws |
-| p ∨ p ≡ p <p>p ∧ p ≡ p | Idempotent Laws |
+| p ∨ p ≡ p <p>p ∧ p ≡ p</p> | Idempotent Laws |
 | ¬(¬p) ≡ p | Double Negation Law |
 | p ∨ q ≡ q ∨ p <p>p ∧ q ≡ q ∧ p</p> | Commutative Laws |
 | (p ∨ q) ∨ r ≡ q ∨ (p ∨ r) <p>(p ∧ q) ∧ r ≡ q ∧ (p ∧ r)</p> | Associative Laws |
@@ -151,6 +151,6 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 | Method of Proof | | Steps |
 |:-----: | :-------: | :-------: | 
 | Proof by Equivalence | (p ↔ q) | Show that (p → q) and (q → p) are both true |
-| Mathematical Induction | | 1. Basis Step (Substitution) <p>2. Inductive Step </p> |
+| Mathematical Induction | | 1. Basis Step (Substitution) <p>2. Inductive Step</p> |
 
 
