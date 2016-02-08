@@ -15,7 +15,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 ✓ **Logical Operations**
 
 | Logical Symbol  |  Logical Operator | Shorthand | Logical Expression |
-| :-----: |:-------:|:-----:| :-------: |
+| :-----: |:-------:| :-----: | :-------: |
 | ¬ |Negation | not | ¬p |
 | ∧ | Conjunction | and | p ∧ q |
 | v | Disjunction | or | p v q |
@@ -27,7 +27,7 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 ✓ Truth table for **Conjunction**, **Disjunction**, **Exclusive Disjunction**, **Conditional**, and **Biconditional**
   
 | p | q | p ∧ q | p v q | p ⊕ q | p → q | p ↔ q |
-| :-----: | :-----: | :-----: |:-------:|:-----:| :-------: | :-------:|
+| :-----: | :-----: | :-----: |:-------:| :-----: | :-------: | :-------:|
 | F | F | F | F | F | T | T |
 | F | T | F | T | T | T | F |
 | T | F | F | T | T | F | F |
