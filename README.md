@@ -51,17 +51,17 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
   
        - the area of logic that deals with propositions
   
-**Implication Equivalence**
+✓ **Implication Equivalence**
 
        p → q ≡ ¬p ∨ q
  
-**Inverse**
+✓ **Inverse**
 
        ¬p → ¬q
-**Converse**
+✓ **Converse**
 
        q → p
-**Contrapositive**
+✓ **Contrapositive**
 
        ¬q → ¬p
 
