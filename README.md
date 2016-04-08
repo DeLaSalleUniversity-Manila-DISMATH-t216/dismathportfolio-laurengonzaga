@@ -157,14 +157,13 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
 
 ✓ **Cardinality**
 
-        - Is the total number of distinct elements.
+        - the total number of distinct elements
     
-ℵ₀
-        - is pronounced as “aleph-zero"/“alephnought”/“aleph-null”
+        (ℵ₀) pronounced as “aleph-zero"/“alephnought”/“aleph-null”
   
 ✓ Nested Quantifiers
 
-        2 quantifiers are nested if one is within the sccope of the other.
+        2 quantifiers are nested if one is within the sccope of the other
         Examples:
       
          ∀x∀y(x≠y) 
@@ -177,15 +176,15 @@ dismathportfolio-laurengonzaga created by Classroom for GitHub
   
 ✓ **Functions**
 
-One-to-one function
+**One-to-one Function**
        
           - each domain is assigned to a certain co-domain
           - no common co-domain
        
-Onto Function
+**Onto Function**
        
-         - each co-domain is assigned to a domain.
-         - no co-domain is left without a partner. 
+         - each co-domain is assigned to a domain
+         - no co-domain is left without a partner
 
 #Week 7
 
@@ -197,26 +196,21 @@ No Classes
 
     - is a finite set of precise instruction
     
-       ✓ Precondition
+**Precondition**
     
            - describes the input
     
-       ✓ Postcondition
+**Postcondition**
     
            - describes what the output should satisfy
     
-Properties:
+**Properties**
       
            • Input
-      
            • Output
-      
            • Definiteness
-      
            • Correctness
-      
            • Finiteness
-           
            • Generality
     
 ✓ **Psuedocode**
@@ -227,7 +221,7 @@ Properties:
 
 ✓ **Seaching Algorithm**
 
-    - The problem of locating an element in an ordered list
+        - The problem of locating an element in an ordered list
 
 ✓ **Linear Search**
 
@@ -235,17 +229,11 @@ Properties:
         Postcondition: location of x (loc)
       
       i=1
-      
       while [(x≠A)^(i≤n)]
-       
           i = i+1
-        
         if(i≤n)
-          
           loc = i
-        
         else
-        
            loc = -1
 
 ✓ **Binary Search**
@@ -254,22 +242,14 @@ Properties:
         Postcondition: location of x (loc)
     
           while [(i≠j) ≠ (i>j)]
-              
              mid = [(i+j)/2]
-             
                 if x>A(mid) 
-                   
                    then i = 1+mid
-                   
                 else j=mid
-                
                 if (x==Ai)
-                
                     loc=i
-                
                 else 
-                
-                   loc = -1;
+                   loc = -1
     
 #Week 10
 
@@ -283,11 +263,8 @@ Properties:
         Postcondition: (X1<X2<...<Xn)
       
           for j: 1 to n-1
-      
              for i: 1 to n-j
-        
                 if(Ai > Aj+1)
-          
                    swap (Ai,Ai+1)
 
 ✓ **Insertion sort**
@@ -296,20 +273,13 @@ Properties:
         Postcondition: (X1<X2<...<Xn)
       
           for j = 2 to n
-              
               i = 1
-              
           while Aj>Ai
-            
               i = i+1
-              
            m = Aj
-           
            for k = 0 to j-i-1
-           
             Aj-k = Aj-i-1
-          
-          Ai = m
+            Ai = m
 
 ✓ **Greedy Algorithm**
 
@@ -320,12 +290,9 @@ Properties:
         Postcondition: (C1>C2>...>Cni n ∈ Z+) 
       
           for i = 1 to 4 
-      
             while(n≥Ci)
-        
                 n = n-Ci
-          
-                   n = n+1
+                n = n+1
 
 #Week 11
 
@@ -337,8 +304,8 @@ Properties:
 
         - upper bound of a function
 
-         - Let f and g be functions from R to Ri f(x) is O(g(x)) if there are constants c and k such that 
-         |f(x)|≤ C|g(x)| whenever x>k
+        - Let f and g be functions from R to Ri f(x) is O(g(x)) if there are constants c and k such that 
+          |f(x)|≤ C|g(x)| whenever x>k
 
 **Big Omega**
 
@@ -350,7 +317,8 @@ Properties:
    
 ✓ **Complexity of Algorithms**
 
-        - can be expressed in terms of the number of operationsused by the algorithm when the input has a particular size
+        - can be expressed in terms of the number of operationsused by the algorithm when the input 
+          has a particular size
 
 #Week 12
 
@@ -378,7 +346,7 @@ No Classes
         - can be open 
         - can have a different starting and ending point
 
-➤ **Hamilton Circuit**
+✓ **Hamilton Circuit**
 
         - passes through all the vertices
         - is closed 
@@ -392,7 +360,7 @@ No Classes
     
 ✓ **Matrices**
 
-Adjacency Matrix
+**Adjacency Matrix**
 
         - relationship between the vertices
         - relationship between the edges
